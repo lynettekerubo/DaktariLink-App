@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "895048967221",
+    "firebase_url": "https://daktarilinkapp-default-rtdb.firebaseio.com",
+    "project_id": "daktarilinkapp",
+    "storage_bucket": "daktarilinkapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895048967221:android:65bdb44b6acce414197d7c",
+        "android_client_info": {
+          "package_name": "com.lynette.daktarilinkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWtFMkATNMSfTOxwH2Ymw9k10ieZi7gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
